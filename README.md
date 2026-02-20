@@ -3,7 +3,7 @@ This is a mainichi issho server with a path for requested UPDATE.YML file by the
 Currently there isnt any other files other than UPDATE.YML as there is no other known file or url requested by the game.
 Currently it seems that the game does connect to the server it just doesnt get any expectable response from it:/
 
-# Tutorial how to put custom server into the game
+# Tutorial on how to put custom server into the game
 Requrements:
 - A Laptop or pc
 - PPSSPP (Latest Version)
