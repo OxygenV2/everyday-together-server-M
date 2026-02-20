@@ -43,7 +43,7 @@ How its Supposed to look like after changing url:
 
 - 0x94D1FDC <img width="590" height="97" alt="image" src="https://github.com/user-attachments/assets/bd74eed7-e63e-4daa-8b90-9d7db9926431" />
 
-After Everything is done exit out of Memory Viewer. And head to the Shop again. It May show a different error this time (ffffffff) or just not show but by looking at the log we can see that it did connect to our server! just didnt get any respond that it wanted :/ Currently thats the farest i can get it to work
+After Everything is done exit out of Memory Viewer. And head to the Shop again. It Will show a different error this time (ffffffff) if did correctly or just not show the error but by looking at the log we can see that it did connect to our server! just didnt get any respond that it wanted :/ Currently thats the farest i can get it to work.
 
 
 
