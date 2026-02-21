@@ -33,7 +33,7 @@ after that Memory Viewer will open.
 ### Step 6
 Once in memory viewer click on search and type in https:// (write it all lowercase) and click search button
 <img width="1579" height="783" alt="image" src="https://github.com/user-attachments/assets/70890a42-ba19-461a-aac4-6403d4f7966a" />
-Once in Memory Viewer make sure to only touch these strings <img width="1579" height="783" alt="11Group 11" src="https://github.com/user-attachments/assets/4f20fca8-0ccc-4c19-affe-316983b593b1" /> They contain the actual url needed. Double click them and change the URL to https://oxygenv2.github.io/everyday-together-server-M/p/ or your custom server if you have one.
+After that make sure to only touch these strings <img width="1579" height="783" alt="11Group 11" src="https://github.com/user-attachments/assets/4f20fca8-0ccc-4c19-affe-316983b593b1" /> They contain the actual url needed. Double click them and change the URL to https://oxygenv2.github.io/everyday-together-server-M/p/ or your custom server if you have one.
 How its Supposed to look like after changing url:
 
 - 0x9188120 <img width="592" height="103" alt="image" src="https://github.com/user-attachments/assets/504ceb8c-81de-4c07-b4d3-412843df6f13" />
