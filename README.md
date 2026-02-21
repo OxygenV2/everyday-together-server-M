@@ -16,7 +16,7 @@ Open PPSSPP then click Settings and navigate to Networking Tab. Toggle Enable ne
 ### Step 2
 Go Back to main menu and click Load... navigate to directory you downloaded Mainichi Issho to choose it and click open. The game should now load up. Use Google Translate if you dont understand japanese! Also ingame it uses O button as confirmation button! Then it will ask you to connect proceed with it.
 ### Step 3
-You now should be greeted with this message! Use Google Translate(or any other translator) to translate everything. It will ask you for Your gender,birthday,blood,type,and nyavatar you can put anything you want.
+You now should be greeted with this message! Use Google Translate(or any other translator) to translate everything. It will ask you for Your gender,birthday,blood type,and nyavatar you can put anything you want.
 <img width="953" height="533" alt="image" src="https://github.com/user-attachments/assets/a1bbd1dd-89ab-4934-90f2-0c4ebaf9997d" />
 After that you will be greeted with the intro. You need to watch it before going into the game itself.
 ### Step 4
