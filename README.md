@@ -1,4 +1,5 @@
-# Mainichi Issho Portable(Everyday Together) custom server.
+# Mainichi Issho Portable(Everyday Together) custom server. 
+# This guide is only for version 1.0 of mainichi issho this guide will not work with 2.0(comming soon)
 This is a mainichi issho server with a path for requested UPDATE.YML file by the game.
 Currently there isnt any other files other than UPDATE.YML as there is no other known file or url requested by the game.
 Currently it seems that the game does connect to the server it just doesnt get any expectable response from it:/
