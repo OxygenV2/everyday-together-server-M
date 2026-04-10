@@ -53,14 +53,14 @@ After Everything is done exit out of Memory Viewer. And head to the Shop again. 
 If for some reason you want to use the Update or the Refresh Button located at the very end of the main menu You can use that too It will be just a little complicated because the Emulator(PPSSPP) doesnt have a required function that the game is trying to run.
 ## Step 1 Aditional
 Open Debug menu on top of the ppsspp window and click Break This will stop the game this is needed for a short time then open Debug menu again on top of the ppsspp window and open Disassembly and click on a random line so it will get blue(selected).
-Once in there press Ctrl+F or if youre on a Mac Command+F then type in 088FAAC8.
-You will see a bunch of lines and the one you need is the one that was found with that address right click it and press Assemble Opcode and type in "nop" click okay and repeat the same process for 088FAB30 and 089034A8.
+Once in there press Ctrl+F or if youre on a Mac Command+F then type in sceNpAuthGetEntitlementIdList.
+You will see a bunch of lines and the one you need is the one that was found with that address right click it and press Assemble Opcode and type in "nop" click okay and repeat the same process until there isnt any sceNpAuthGetEntitlementIdList.
 
 after that close disassembly window then open debug menu and hit Run.
 ## Step 2 Aditional
 After Everything is done head to the update menu and click it and select the first option that appears <img width="944" height="528" alt="image" src="https://github.com/user-attachments/assets/9f2fdcba-5cbc-416b-94aa-9b07021dd14d" />
-It will then get stuck and it will be frozen thats fine click Debug on top of ppsspp window then Click break then open Disassembly click on a random line press Ctrl+F or for Mac Command+f and type 088FAC2C then on the line that was found right click on it and click on Assemble Opcode and type "nop"
-then close Disassembly click on Debug on the Window and Press Run wait a bit and you're done!
+It will then get stuck and it will be frozen thats fine click Debug on top of ppsspp window then Click break then open Disassembly click on a random line press Ctrl+F or for Mac Command+f and type sceNpAuthGetEntitlementById then under the line that was found there should be a line with "bgelz" in it right click on it and click on Assemble Opcode and type "nop"
+then close Disassembly click on Debug on top the Window and Press Run wait a bit and you're done!
 ## Please Note that everything in this tutorial is not permanent as it involves editing memory and that after restarting the game you will need to redo everything.
 
 
