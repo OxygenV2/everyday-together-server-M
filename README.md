@@ -3,6 +3,7 @@
 This is a mainichi issho server with a path for requested UPDATE.YML file by the game.
 Currently there isnt any other files other than UPDATE.YML as there is no other known file or url requested by the game.
 Currently it seems that the game does connect to the server it just doesnt get any expectable response from it:/
+#### If you dont want to patch anything or selfhost check out this guide! https://github.com/OxygenV2/everyday-together-patch
 
 # Tutorial on how to put custom server into the game
 Requrements:
